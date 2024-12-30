@@ -1,4 +1,5 @@
 import env from '@/app/env'
+// connecting the frontend to the backend
 
 import {Client, Account, Avatars, Databases, Storage} from 'appwrite'
 
